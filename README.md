@@ -1,2 +1,2 @@
-# hello world. 
-i'm 2x09.
+# hello world :3
+i'm 2x09
